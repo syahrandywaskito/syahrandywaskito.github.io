@@ -1,10 +1,21 @@
-
+/*jumbotron*/
 .jumbotron{
-	padding-top:6rem;
-	background-color:#E9DEFF;
+	padding-top:10rem;
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='2000' height='900' preserveAspectRatio='none' viewBox='0 0 2000 900'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1304%26quot%3b)' fill='none'%3e%3crect width='2000' height='900' x='0' y='0' fill='url(%23SvgjsLinearGradient1305)'%3e%3c/rect%3e%3cpath d='M2184.44 558.63C2007.23 550.15 1908.96 264.89 1548.54 243.63 1188.12 222.37 1096-112.52 912.64-125.58' stroke='rgba(2%2c 182%2c 249%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M2138.73 575.27C1933.71 562.49 1810.49 192.26 1418.78 179.27 1027.06 166.28 887.3-42.17 698.82-44.74' stroke='rgba(2%2c 182%2c 249%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M2238.6 730.02C1999.69 720.19 1849.3 344.25 1372.14 325.02 894.99 305.79 743.94-64.15 505.69-73.55' stroke='rgba(2%2c 182%2c 249%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M2040.93 418.17C1874.48 417.76 1712.81 305.67 1384.7 305.67 1056.58 305.67 1068.89 421.5 728.46 418.17 388.04 414.84 273.4-33.29 72.23-57.41' stroke='rgba(2%2c 182%2c 249%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M2182.11 221.91C1984.37 224.9 1811.78 466 1429.3 464.91 1046.81 463.82 903.22-25.99 676.48-49.81' stroke='rgba(2%2c 182%2c 249%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1304'%3e%3crect width='2000' height='900' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='0%25' y1='50%25' x2='100%25' y2='50%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1305'%3e%3cstop stop-color='rgba(14%2c 42%2c 71%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(0%2c 75%2c 172%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+	background-repeat: no-repeat;
+	color: white;
 }
+/*jumbotron end*/
+
+/*svg*/
+svg{
+	padding: 0rem;
+}
+/*svg end*/
+
 #gallery{
-	background-color: #E9DEFF;
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='2000' height='900' preserveAspectRatio='none' viewBox='0 0 2000 900'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1378%26quot%3b)' fill='none'%3e%3crect width='2000' height='900' x='0' y='0' fill='url(%23SvgjsLinearGradient1379)'%3e%3c/rect%3e%3cpath d='M-79.21 216.86C63.6 217.41 200.81 329.36 480.83 329.36 760.85 329.36 725.23 199.44 1040.88 216.86 1356.53 234.28 1389.43 842.43 1600.92 916.24' stroke='rgba(2%2c 182%2c 249%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M-158.89 303.11C65.34 309.73 313.45 620.81 670.67 645.11 1027.89 669.41 949.27 987.1 1085.45 1012.15' stroke='rgba(2%2c 182%2c 249%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M-247.72 429.28C-90.86 429.74 60.91 541.78 369.54 541.78 678.16 541.78 657.1 421.67 986.79 429.28 1316.48 436.89 1397.09 964.02 1604.05 1006.57' stroke='rgba(2%2c 182%2c 249%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M-263.82 490.96C-72.69 474.91 45.75 80.92 387.79 85.96 729.82 91 792.27 820.18 1039.39 907.89' stroke='rgba(2%2c 182%2c 249%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M-144.05 189.58C58.56 199.26 249.4 510.14 583.1 549.58 916.79 589.02 813.12 933.31 946.67 974.99' stroke='rgba(2%2c 182%2c 249%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1378'%3e%3crect width='2000' height='900' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='50%25' y1='0%25' x2='50%25' y2='100%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1379'%3e%3cstop stop-color='rgba(14%2c 42%2c 71%2c 1)' offset='0.14'%3e%3c/stop%3e%3cstop stop-color='rgba(0%2c 75%2c 172%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+	background-repeat: no-repeat;
 }
 section{
 	padding-top: 5rem;
@@ -12,3 +23,62 @@ section{
 #sosmed{
 	text-decoration: none;
 }
+
+/*button*/
+.cta {
+ position: relative;
+ margin: auto;
+ padding: 12px 18px;
+ transition: all 0.2s ease;
+ border: none;
+ background: none;
+}
+
+.cta:before {
+ content: "";
+ position: absolute;
+ top: 0;
+ left: 0;
+ display: block;
+ border-radius: 50px;
+ background: #41CBFF94;
+ width: 45px;
+ height: 45px;
+ transition: all 0.3s ease;
+}
+
+.cta span {
+ position: relative;
+ font-family: "Ubuntu", sans-serif;
+ font-size: 18px;
+ font-weight: 700;
+ letter-spacing: 0.05em;
+ color: #2e2d2d;
+}
+
+.cta svg {
+ position: relative;
+ top: 0;
+ margin-left: 10px;
+ fill: none;
+ stroke-linecap: round;
+ stroke-linejoin: round;
+ stroke:#2e2d2d;
+ stroke-width: 2;
+ transform: translateX(-5px);
+ transition: all 0.3s ease;
+}
+
+.cta:hover:before {
+ width: 100%;
+ background:#41CBFF94;
+}
+
+.cta:hover svg {
+ transform: translateX(0);
+}
+
+.cta:active {
+ transform: scale(0.95);
+}
+/*button end*/
