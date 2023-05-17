@@ -6,5 +6,5 @@
 
 <p>
   visit link : <br>
-  <strong>syahrandywaskito.github.io/porto.html</strong>
+  syahrandywaskito.github.io/porto.html
 </p>
